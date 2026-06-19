@@ -7,3 +7,4 @@ xgboost>=1.6.0
 snapml>=1.11.0
 autoai-libs>=1.1.0
 onnxconverter-common
+gensim==4.2.0
